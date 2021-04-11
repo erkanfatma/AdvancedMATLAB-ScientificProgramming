@@ -1,1 +1,1 @@
-# AdvancedMATLAB-ScientificProgramming
+# Scientific Programming
